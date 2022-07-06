@@ -1,0 +1,6 @@
+Numero:2
+Titulo:Sejamos todos feministas
+Autor:Chimamanda Ngozi Adichie
+Ano:2015
+Status:Disponivel
+Emprestado para:

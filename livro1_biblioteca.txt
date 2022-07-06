@@ -1,0 +1,6 @@
+Numero:1
+Titulo:Como fazer sentido e bater o martelo
+Autor:Alexandro Aolchique
+Ano:2017
+Status:Disponivel
+Emprestado para:
